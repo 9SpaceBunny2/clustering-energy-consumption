@@ -1,2 +1,7 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
 .ipynb_checkpoints
+
+# My data of sensitive nature
 /data
