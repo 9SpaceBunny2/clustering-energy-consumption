@@ -7,3 +7,5 @@ __pycache__/
 /data
 usable_users.xlsx
 weekly_user_profiles.xlsx
+daily_user_profiles.xlsx
+monthly_user_profiles.xlsx
