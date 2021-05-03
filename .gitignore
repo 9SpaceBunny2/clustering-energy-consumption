@@ -5,6 +5,8 @@ __pycache__/
 
 # My data of sensitive nature
 /data
+/images
+/clusters_data
 usable_users.xlsx
 weekly_user_profiles.xlsx
 daily_user_profiles.xlsx
